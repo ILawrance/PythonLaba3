@@ -15,4 +15,4 @@ def Slojenie_Vichitanie(n, m, a, b):
     print(v)
 
 
-slojenie(n, m, a, b)
+Slojenie_Vichitanie(n, m, a, b)
